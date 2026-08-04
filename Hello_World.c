@@ -5,7 +5,7 @@
 
 
 int main() {
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "German");
     wprintf(L"Hallo meine Liebe. \n"
         L"Ich liebe dich über alles Nikolina Lazarević. \n" 
         L"Du bist die beste und schönste Frau auf der ganzen Welt");
