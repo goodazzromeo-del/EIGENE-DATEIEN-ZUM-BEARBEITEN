@@ -17,7 +17,7 @@ int main()
 
     /*Hier werden die Ergebnisse ausgegeben und mittgeteilt*/
     printf("Der Gesamtpreis für die Herzen beträgt: %.2f Eurp\n", gesamtPreisHerzen);
-    printf SPÄTER BEARBEITEN BITTEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+    printf
 
     return 0;
 
