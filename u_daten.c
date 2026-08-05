@@ -7,7 +7,7 @@ int main()
     double PreisErsterArtikel, PreisZweiterArtikel, gesamtPreisBeide, gesamtpreisRabatt, gesamtpreisRabattDifferenz;
 
 
-    setlocale(LC_ALL, "German");
+    setlocale(LC_ALL, "");
 
     /*Der Erste Artikel wird abgefragt und der Preis wird abgefragt*/
 
